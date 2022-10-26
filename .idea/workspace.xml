@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56043f4c-ee9a-4c5d-96e4-43de79f4036f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperadorInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorTernarioNumeroMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperadorTernarioNumeroMayor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +54,61 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HolaMundo">
-    <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploString" />
-      <module name="AprendiendoJAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploStringConcatenacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringConcatenacion" />
-      <module name="AprendiendoJAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploStringInmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringInmutable" />
-      <module name="AprendiendoJAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploStringTestRendimientoConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringTestRendimientoConcat" />
+  <component name="RunManager" selected="Application.Ejercicio4">
+    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.EjerciciosJava.Ejercicio1" />
       <module name="Aprendiendo-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.EjerciciosJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.EjerciciosJava.Ejercicio2" />
+      <module name="Aprendiendo-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.EjerciciosJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.EjerciciosJava.Ejercicio3" />
+      <module name="Aprendiendo-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.EjerciciosJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java.EjerciciosJava.Ejercicio4" />
+      <module name="Aprendiendo-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java.EjerciciosJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadorInstanceOf" />
       <module name="Aprendiendo-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HolaMundo" />
-        <item itemvalue="Application.EjemploStringTestRendimientoConcat" />
-        <item itemvalue="Application.EjemploStringInmutable" />
-        <item itemvalue="Application.EjemploStringConcatenacion" />
-        <item itemvalue="Application.EjemploString" />
+        <item itemvalue="Application.Ejercicio4" />
+        <item itemvalue="Application.Ejercicio3" />
+        <item itemvalue="Application.Ejercicio2" />
+        <item itemvalue="Application.Ejercicio1" />
+        <item itemvalue="Application.OperadorInstanceOf" />
       </list>
     </recent_temporary>
   </component>
