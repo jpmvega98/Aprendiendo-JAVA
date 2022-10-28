@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56043f4c-ee9a-4c5d-96e4-43de79f4036f" name="Changes" comment="todo por la manana">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NombreMasLargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrdenarDosNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SentenciaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SentenciaIfElseNumDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sentenciaSwitchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperadorInstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrecedenciaOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrecedenciaOperadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/java/EjerciciosJava/Ejercicio13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio13">
+  <component name="RunManager" selected="Application.sentenciaSwitchCase">
     <configuration name="Ejercicio13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.java.EjerciciosJava.Ejercicio13" />
       <module name="Aprendiendo-JAVA" />
@@ -77,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadorInstanceOf" />
-      <module name="Aprendiendo-JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrdenarDosNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrdenarDosNumeros" />
       <module name="Aprendiendo-JAVA" />
@@ -91,8 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrecedenciaOperadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrecedenciaOperadores" />
+    <configuration name="SentenciaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaIfElse" />
+      <module name="Aprendiendo-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sentenciaSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sentenciaSwitchCase" />
       <module name="Aprendiendo-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sentenciaSwitchCase" />
+        <item itemvalue="Application.SentenciaIfElse" />
         <item itemvalue="Application.Ejercicio13" />
         <item itemvalue="Application.NombreMasLargo" />
         <item itemvalue="Application.OrdenarDosNumeros" />
-        <item itemvalue="Application.PrecedenciaOperadores" />
-        <item itemvalue="Application.OperadorInstanceOf" />
       </list>
     </recent_temporary>
   </component>
