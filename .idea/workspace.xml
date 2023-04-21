@@ -5,69 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56043f4c-ee9a-4c5d-96e4-43de79f4036f" name="Changes" comment="todo por la manana">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploAsignarPropiedadesSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploGetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploJavaUtilCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploJavaUtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploJavaUtilFateParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploPropiedadesDelSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploVariablesDeEntorno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjercicioCalcularEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PasarPorReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PasarPorReferencia2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PasarPorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SentenciaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SentenciaForArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/TareaCalcularElAreaDeUnCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CursoJava/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjemploClaseMathRamdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz35/DiaDeLaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz35/Ejercicioz35main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConvercionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/ConvercionDeTipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/ConversionDeTipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringConcatenacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringConcatenacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringExtensionArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringExtensionArchivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringInmutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringMetodosArreglo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringTestRendimientoConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/EjemploStringValidar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Facturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/Facturas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/HolaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NombreMasLargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/NombreMasLargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadorInstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorInstanceOfTiposGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadorTernario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadorTernarioNumeroMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadorTernarioNumeroMayor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresAritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresAsignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresAsignacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresIncrementales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresIncrementales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresLogico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresLogico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresLogicosLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresLogicosLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresRelacionales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperadoresUnarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OperadoresUnarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OrdenarDosNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/OrdenarDosNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrecedenciaOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrecedenciaOperadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivoBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivoBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivosBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivosBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivosCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivosCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivosEnteros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivosEnteros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivosEnterosYFlotantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivosEnterosYFlotantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/PrimitivosFloat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SentenciaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SentenciaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SentenciaIfElseNumDiasMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SentenciaIfElseNumDiasMes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SistemasNumericos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SistemasNumericosEntradaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/SistemasNumericosEntradaScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sentenciaSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CursoJava/sentenciaSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EjerciciosJava/Ejercicioz26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,31 +63,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AprendiendoJava/Aprendiendo-JAVA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Proyecto Hotel/hotelbackend",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CursoJava" />
       <recent name="EjerciciosJava" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicioz25">
-    <configuration name="Ejercicioz21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosJava.Ejercicioz21" />
+  <component name="RunManager" selected="Application.TareaCalcularElAreaDeUnCirculo">
+    <configuration name="EjemploAsignarPropiedadesSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursoJava.EjemploAsignarPropiedadesSistema" />
       <module name="Aprendiendo-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosJava.*" />
+          <option name="PATTERN" value="CursoJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicioz22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosJava.Ejercicioz22" />
+    <configuration name="EjemploClaseMathRamdom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploClaseMathRamdom" />
+      <module name="Aprendiendo-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploPropiedadesDelSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursoJava.EjemploPropiedadesDelSistema" />
       <module name="Aprendiendo-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosJava.*" />
+          <option name="PATTERN" value="CursoJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicioz23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosJava.Ejercicioz23" />
+    <configuration name="EjemploVariablesDeEntorno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursoJava.EjemploVariablesDeEntorno" />
       <module name="Aprendiendo-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosJava.*" />
+          <option name="PATTERN" value="CursoJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,25 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicioz24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosJava.Ejercicioz24" />
+    <configuration name="TareaCalcularElAreaDeUnCirculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CursoJava.TareaCalcularElAreaDeUnCirculo" />
       <module name="Aprendiendo-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EjerciciosJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejercicioz25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosJava.Ejercicioz25" />
-      <module name="Aprendiendo-JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="EjerciciosJava.*" />
+          <option name="PATTERN" value="CursoJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ejercicioz25" />
-        <item itemvalue="Application.Ejercicioz24" />
-        <item itemvalue="Application.Ejercicioz23" />
-        <item itemvalue="Application.Ejercicioz22" />
-        <item itemvalue="Application.Ejercicioz21" />
+        <item itemvalue="Application.TareaCalcularElAreaDeUnCirculo" />
+        <item itemvalue="Application.EjemploClaseMathRamdom" />
+        <item itemvalue="Application.EjemploVariablesDeEntorno" />
+        <item itemvalue="Application.EjemploAsignarPropiedadesSistema" />
+        <item itemvalue="Application.EjemploPropiedadesDelSistema" />
       </list>
     </recent_temporary>
   </component>
